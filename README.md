@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Josiah-John Green</h1>
-<h3 align="center">A passionate software engineer in the works from the quaint island nation of Jamaica</h3>
+<h1 align="center">Hey! I'm Josiah-John Green</h1>
+<h3 align="center">A passionate software engineer in the works, from the quaint island nation of Jamaica</h3>
 
-- 🔭 I’m currently working on **my personal website**
+- 📝 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **Website Design and Development**
+- 📚 I’m currently learning **Website Design and Development**
 
-- 📫 How to reach me **josiahjohngreen@gmail.com**
+- 📩 How to reach me **josiahjohngreen@gmail.com**
 
-- 📄 Know about my experiences [https://mymonauwi-my.sharepoint.com/:b:/g/personal/josiahjohn_green_mymona_uwi_edu/EU13cXeEXwZNkyvIehmAEP8BIodTvXj4OAYO2UvANpxIgw?e=1yPdJh](https://mymonauwi-my.sharepoint.com/:b:/g/personal/josiahjohn_green_mymona_uwi_edu/EU13cXeEXwZNkyvIehmAEP8BIodTvXj4OAYO2UvANpxIgw?e=1yPdJh)
+- 📑 Know about my experiences [https://mymonauwi-my.sharepoint.com/:b:/g/personal/josiahjohn_green_mymona_uwi_edu/EU13cXeEXwZNkyvIehmAEP8BIodTvXj4OAYO2UvANpxIgw?e=1yPdJh](https://mymonauwi-my.sharepoint.com/:b:/g/personal/josiahjohn_green_mymona_uwi_edu/EU13cXeEXwZNkyvIehmAEP8BIodTvXj4OAYO2UvANpxIgw?e=1yPdJh)
 
-- ⚡ Fun fact **I like reptiles and amphibians**
+- 🐢 Fun fact **I like reptiles and amphibians**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
