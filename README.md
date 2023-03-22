@@ -1,6 +1,6 @@
-<h1 align="center">Hey! I'm Josiah-John Green</h1>
+<h1 align="center">Hey! I'm Josiah-John Green </h1>
 
-<h4 align="center">  "A passionate Software Engineer in the works, from the quaint island nation of Jamaica"</h4></h4>
+<h4 align="center">  "A passionate Software Engineer in the works, from the quaint island nation of Jamaica"</h4>
 
 <h3 align="left">A Little About Me</h3>
 
