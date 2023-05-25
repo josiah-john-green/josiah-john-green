@@ -14,7 +14,7 @@
 
 - 🐢 Fun fact **I like reptiles and amphibians**
 
-- 🔗 If you'd like to learn more, feel free to check out my website **@[josiah-john-green](https://josiah-john-green.github.io/josiah-john-green-professional/)**
+- 🔗 If you'd like to learn more, feel free to check out my professional website **@[josiah-john-green](https://josiah-john-green.github.io/josiah-john-green-professional/)**
 
 
 <h3 align="left">Languages and Tools</h3>
