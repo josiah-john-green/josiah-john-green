@@ -4,7 +4,7 @@
 
 <h3 align="left">A Little About Me</h3>
 
-- 📝 I’m currently working on **my personal website**
+- 📝 I’m currently working on **my professional website**
 
 - 📚 I’m currently learning **Website Design and Development**
 
